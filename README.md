@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Sistemas de infromação** na <a href="https://estacio.br/">Estácio</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Nodejs & MongoDB**.
+- 🌱 &nbsp; Aprendendo mais sobre **Java**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
